@@ -1,1 +1,7 @@
 This is my first file
+
+Git stands for global regular expression search
+
+
+
+
