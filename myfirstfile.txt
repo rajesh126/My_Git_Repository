@@ -2,6 +2,6 @@ This is my first file
 
 Git stands for global regular expression search
 
-
+ This is the first line I am adding for diff
 
 
